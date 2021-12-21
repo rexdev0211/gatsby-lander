@@ -1,0 +1,11 @@
+{
+  "buttons": [
+    {
+      "text": "Find Out Your Scores Now",
+      "type": "PAGE",
+      "link": "/signup",
+      "target": "_blank",
+      "variant": "secondary"
+    }
+  ]
+}

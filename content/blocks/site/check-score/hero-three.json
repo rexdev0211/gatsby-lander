@@ -1,0 +1,21 @@
+{
+  "text": [
+    {
+      "text": "It’s Easy To Ignore Your Credit Score…Until You Need It",
+      "color": "black",
+      "variant": "h3"
+    },
+    {
+      "text": "Not knowing what your score is across all 3 credit bureaus can prevent you from those milestone purchases like the new car or new home you’ve been so patiently looking forward to.",
+      "color": "omegaDark",
+      "space": 2
+    }
+  ],
+  "images": [
+    {
+      "src": "../../../assets/pie-chart.png",
+      "alt": "check score",
+      "effects": ["fadeInLeft"]
+    }
+  ]
+}

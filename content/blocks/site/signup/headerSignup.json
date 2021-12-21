@@ -1,0 +1,19 @@
+{
+  "images": [
+    {
+      "src": "../../../assets/thecreditreviewer.png",
+      "alt": "credit reviewer",
+      "effects": ["fadeInDown"]
+    },
+    {
+      "src": "../../../assets/badge.png",
+      "alt": "credit reviewer",
+      "effects": ["fadeInDown"]
+    },
+    {
+      "src": "../../../assets/bureau-logos.png",
+      "alt": "credit reviewer",
+      "effects": ["fadeInDown"]
+    }
+  ]
+}

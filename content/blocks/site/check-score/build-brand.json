@@ -1,0 +1,77 @@
+{
+  "text": [
+    {
+      "text": "See Negative Items Affecting Your Score And Learn How To Get Rid Of Them",
+      "variant": "h3",
+      "color" : "white"
+    },
+    {
+      "text": "We help our clients achieve tangible, high-impact results.",
+      "variant": "medium"
+    }
+  ],
+  "images": [
+    {
+      "src": "../../../assets/happy-credit.jpeg",
+      "alt": "alt text",
+      "radius": "lg",
+      "shadow": "lg"
+    }
+  ],
+  "collection": [
+    {
+      "text": [
+        {
+          "text": "LATE PAYMENTS",
+          "color": "white",
+          "variant": "h5"
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "text": "COLLECTIONS",
+          "color": "white",
+          "variant": "h5"
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "text": "FORECLOSURES",
+          "color": "white",
+          "variant": "h5"
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "text": "BANKRUPTCIES",
+          "color": "white",
+          "variant": "h5"
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "text": "REPOSSESSIONS",
+          "color": "white",
+          "variant": "h5"
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "text": "And More...",
+          "color": "white",
+          "variant": "h5"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "collection": [
+    {
+      "text": [
+        {
+          "text": "w/7-Day Trial\nEnds Dec. 01, 2021",
+          "color": "black",
+          "variant": "xsmall"
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "text": "Monthly Membership of $39.90\n\nautomatically billed to account after trial",
+          "color": "black",
+          "variant": "xsmall"
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "text": "For questions or to cancel, call\n\n844-878-8351 or login to account",
+          "color": "black",
+          "variant": "xsmall"
+        }
+      ]
+    }
+  ]
+}

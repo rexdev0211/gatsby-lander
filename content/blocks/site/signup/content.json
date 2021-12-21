@@ -1,0 +1,92 @@
+{
+  "collection": [
+    {
+      "images": [
+        {
+          "src": "../../../assets/secure-site-seal.png",
+          "alt": "shield",
+          "effects": ["fadeInDown"]
+        },
+        {
+          "src": "../../../assets/secure.png",
+          "alt": "shield",
+          "effects": ["fadeInDown"]
+        },
+        {
+          "src": "../../../assets/your-credit-score-3.png",
+          "alt": "shield",
+          "effects": ["fadeInDown"]
+        },
+        {
+          "src": "../../../assets/ssl-seal.png",
+          "alt": "shield",
+          "effects": ["fadeInDown"]
+        },
+        {
+          "src": "../../../assets/mcafee.jpeg",
+          "alt": "shield",
+          "effects": ["fadeInDown"]
+        },
+        {
+          "src": "../../../assets/badge.png",
+          "alt": "shield",
+          "effects": ["fadeInDown"]
+        },
+        {
+          "src": "../../../assets/arrow.png",
+          "alt": "shield",
+          "effects": ["fadeInDown"]
+        }
+      ],
+      "text": [
+        {
+          "text": "Business Analysis",
+          "color": "omegaDarker",
+          "variant": "h4"
+        },
+        {
+          "text": "At vero eos et accusamus et nostrud  iusto odio dignissimos ducimus qui blanditiis praesentium.",
+          "color": "omegaDark",
+          "space": 5
+        },
+        {
+          "text": "Consulting & Marketing",
+          "color": "omegaDarker",
+          "variant": "h4"
+        },
+        {
+          "text": "Voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur.",
+          "color": "omegaDark",
+          "space": 5
+        },
+        {
+          "text": "Strategic Planning",
+          "color": "omegaDarker",
+          "variant": "h4"
+        },
+        {
+          "text": "At vero eos et accusamus et quisquam iusto odio dignissimos ducimus qui blanditiis praesentium.",
+          "color": "omegaDark",
+          "space": 5
+        },
+        {
+          "text": "Design & Development",
+          "color": "omegaDarker",
+          "variant": "h4"
+        },
+        {
+          "text": "quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat aliquip et.",
+          "color": "omegaDark"
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "text": "It's likely, according to financial experts and analysts. Your credit report can include errors and inaccuracies that can lower your credit score. As a member of myscoretools.com, you'll have access to your credit report from all 3 credit bureaus - TransUnion, Experian, Equifax - so you can be sure that your credit information is correct.",
+          "variant": "xsmall"
+        }
+      ]
+    }
+  ]
+}

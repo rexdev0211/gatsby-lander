@@ -1,0 +1,22 @@
+{
+  "text": [
+    {
+      "text": "It’s Time To Take Control Of Your Credit",
+      "variant": "h3",
+      "color" : "white"
+    },
+    {
+      "text": "Checking Your Own Credit Won’t Hurt Your Scores",
+      "variant": "small"
+    }
+  ],
+  "buttons": [
+    {
+      "text": "Find Out Your Scores Now",
+      "type": "PAGE",
+      "link": "/signup",
+      "target": "_blank",
+      "variant": "secondary"
+    }
+  ]
+}

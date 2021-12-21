@@ -1,0 +1,73 @@
+{
+  "collection": [
+    {
+      "text": [
+        {
+          "text": "AirBnB"
+        }
+      ],
+      "icon": {
+        "src": "../../../assets/flexiblocks/companies/company-airbnb.svg",
+        "alt": "alt text"
+      }
+    },
+    {
+      "text": [
+        {
+          "text": "Amazon Web Services"
+        }
+      ],
+      "icon": {
+        "src": "../../../assets/flexiblocks/companies/company-amazon-web-services.svg",
+        "alt": "alt text"
+      }
+    },
+    {
+      "text": [
+        {
+          "text": "Cisco"
+        }
+      ],
+      "icon": {
+        "src": "../../../assets/flexiblocks/companies/company-shopify.svg",
+        "alt": "alt text"
+      }
+    },
+    {
+      "text": [
+        {
+          "text": "The Credit Reviewer"
+        }
+      ],
+      "icon": {
+        "src": "../../../assets/thecreditreviewer.png",
+        "alt": "The Credit Reviewer"
+      }
+    },
+    {
+      "text": [
+        {
+          "text": "My CRedit Checkup"
+        }
+      ],
+      "icon": {
+        "src": "../../../assets/mycreditcheckup_1.png",
+        "alt": "My Credit Checkup"
+      }
+    },
+    {
+      "text": [
+        {
+          "text": "Bureau"
+        }
+      ],
+      "icon": {
+        "src": "../../../assets/bureau-logos.png",
+        "alt": "bureau"
+      }
+    }
+  ]
+}
+
+
+

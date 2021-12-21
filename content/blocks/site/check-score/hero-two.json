@@ -1,0 +1,31 @@
+{
+  "text": [
+    {
+      "text": "End The Stress And Take Full Control Of Your Credit NOW",
+      "color": "black",
+      "variant": "h3"
+    },
+    {
+      "text": "24/7 Score Monitoring From All 3 Credit Bureaus",
+      "color": "omegaDark",
+      "space": 2
+    },
+    {
+      "text": "UNLIMITED Access To ALL Your Credit Reports",
+      "color": "omegaDark",
+      "space": 2
+    },
+    {
+      "text": "INSTANT Alerts Whenever Your Score Changes",
+      "color": "omegaDark",
+      "space": 2
+    }
+  ],
+  "images": [
+    {
+      "src": "../../../assets/mobile-image.png",
+      "alt": "check score",
+      "effects": ["fadeInLeft"]
+    }
+  ]
+}

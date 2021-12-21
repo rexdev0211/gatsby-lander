@@ -1,0 +1,63 @@
+{
+  "text": [
+    {
+      "text": "Why Choose Us Over Competition?",
+      "color": "omegaDark",
+      "variant": "h4"
+    },
+    {
+      "text": "Here’s What You’ll Get When You Start Now",
+      "variant": "h2"
+    }
+  ],
+  "collection": [
+    {
+      "text": [
+        {
+          "text": "FREE Unlimited Reports",
+          "variant": "h5"
+        },
+        {
+          "text": "Access To Your TransUnion, Experian & Equifax Credit Reports"
+        }
+      ],
+      "icon": {
+        "src": "../../../assets/flexiblocks/icons/bx-analyse.svg",
+        "bg": "transparent",
+        "color": "omega"
+      }
+    },
+    {
+      "text": [
+        {
+          "text": "FREE Identity Protection",
+          "variant": "h5"
+        },
+        {
+          "text": "Identify Theft Protection To Keep Your Finances More Secure Than Ever"
+        }
+      ],
+      "icon": {
+        "src": "../../../assets/flexiblocks/icons/bx-chat.svg",
+        "bg": "transparent",
+        "color": "omega"
+      }
+    },
+    {
+      "text": [
+        {
+          "text": "FREE Professional Support",
+          "variant": "h5"
+        },
+        {
+          "text": "Personalized Advice On How To Raise Your Score Starting TODAY"
+        }
+      ],
+      "icon": {
+        "src": "../../../assets/flexiblocks/icons/bx-directions.svg",
+        "bg": "transparent",
+        "color": "omega"
+      }
+    }
+  ]
+}

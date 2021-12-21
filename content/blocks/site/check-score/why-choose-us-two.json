@@ -1,0 +1,58 @@
+{
+  "text": [
+    {
+      "text": "We Help Protect You Like Other Companies Can’t",
+      "variant": "h2"
+    }
+  ],
+  "collection": [
+    {
+      "icon": {
+        "src": "../../../assets/flexiblocks/icons/bx-check-circle.svg",
+        "color": "beta"
+      },
+      "text": [
+        {
+          "text": "SAFEGUARD YOUR MONEY",
+          "variant": "h5"
+        },
+        {
+          "text": "Get dark web monitoring to prevent hackers from stealing your identity BEFORE it happen",
+          "variant": "small"
+        }
+      ]
+    },
+    {
+      "icon": {
+        "src": "../../../assets/flexiblocks/icons/bx-check-circle.svg",
+        "color": "beta"
+      },
+      "text": [
+        {
+          "text": "100% TRANSPARENT SCORES",
+          "variant": "h5"
+        },
+        {
+          "text": "See the most up-to-date credit scores in real time so you can make the right decisions",
+          "variant": "small"
+        }
+      ]
+    },
+    {
+      "icon": {
+        "src": "../../../assets/flexiblocks/icons/bx-check-circle.svg",
+        "color": "beta"
+      },
+      "text": [
+        {
+          "text": "ELIMINATE YOUR NEGATIVES",
+          "variant": "h5"
+        },
+        {
+          "text": "Learn how to slash through anything holding you back from the credit score of your dreams",
+          "variant": "small"
+        }
+      ]
+    }
+  ]
+}

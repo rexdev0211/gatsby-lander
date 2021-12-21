@@ -1,0 +1,85 @@
+{
+  "images": [
+    {
+      "src": "../../../assets/scores-opt.png",
+      "alt": "credit reviewer",
+      "effects": ["fadeInDown"]
+    },
+    {
+      "src": "../../../assets/leftimage1-opt-none.png",
+      "alt": "laptop",
+      "effects": ["fadeInDown"]
+    },
+    {
+      "src": "../../../assets/ssl-seal.png",
+      "alt": "ssl",
+      "effects": ["fadeInDown"]
+    },
+    {
+      "src": "../../../assets/download-sign.png",
+      "alt": "sign",
+      "effects": ["fadeInDown"]
+    },
+    {
+      "src": "../../../assets/comp.png",
+      "alt": "sign",
+      "effects": ["fadeInDown"]
+    },
+    {
+      "src": "../../../assets/bars.png",
+      "alt": "sign",
+      "effects": ["fadeInDown"]
+    },
+    {
+      "src": "../../../assets/arrow.png",
+      "alt": "arrow",
+      "effects": ["fadeInDown"]
+    },
+    {
+      "src": "../../../assets/check.png",
+      "alt": "check",
+      "effects": ["fadeInDown"]
+    }
+  ],
+  "text": [
+    {
+      "text": "Business Analysis",
+      "color": "omegaDarker",
+      "variant": "h4"
+    },
+    {
+      "text": "At vero eos et accusamus et nostrud  iusto odio dignissimos ducimus qui blanditiis praesentium.",
+      "color": "omegaDark",
+      "space": 5
+    },
+    {
+      "text": "Consulting & Marketing",
+      "color": "omegaDarker",
+      "variant": "h4"
+    },
+    {
+      "text": "Voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur.",
+      "color": "omegaDark",
+      "space": 5
+    },
+    {
+      "text": "Strategic Planning",
+      "color": "omegaDarker",
+      "variant": "h4"
+    },
+    {
+      "text": "At vero eos et accusamus et quisquam iusto odio dignissimos ducimus qui blanditiis praesentium.",
+      "color": "omegaDark",
+      "space": 5
+    },
+    {
+      "text": "Design & Development",
+      "color": "omegaDarker",
+      "variant": "h4"
+    },
+    {
+      "text": "quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat aliquip et.",
+      "color": "omegaDark"
+    }
+  ]
+}

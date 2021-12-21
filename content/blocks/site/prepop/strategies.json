@@ -1,0 +1,43 @@
+{
+  "collection": [
+    {
+      "icon": {
+        "src": "../../../assets/flexiblocks/icons/bx-check-circle.svg",
+        "color": "green"
+      },
+      "text": [
+        {
+          "text": "w/7-Day Trial\nEnds Dec. 01, 2021",
+          "color": "black",
+          "variant": "xsmall"
+        }
+      ]
+    },
+    {
+      "icon": {
+        "src": "../../../assets/flexiblocks/icons/bx-check-circle.svg",
+        "color": "green"
+      },
+      "text": [
+        {
+          "text": "Monthly Membership of $39.90\n\nautomatically billed to account after trial",
+          "color": "black",
+          "variant": "xsmall"
+        }
+      ]
+    },
+    {
+      "icon": {
+        "src": "../../../assets/flexiblocks/icons/bx-check-circle.svg",
+        "color": "green"
+      },
+      "text": [
+        {
+          "text": "For questions or to cancel, call\n\n844-878-8351 or login to account",
+          "color": "black",
+          "variant": "xsmall"
+        }
+      ]
+    }
+  ]
+}

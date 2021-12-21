@@ -1,0 +1,30 @@
+{
+  "text": [
+    {
+      "text": "See Your Credit Score In Seconds!",
+      "color": "white",
+      "variant": "h1"
+    },
+    {
+      "text": "Get Your Score From All 3 Credit Bureaus As Of 12/03/2021",
+      "color": "white",
+      "variant": "small"
+    }
+  ],
+  "images": [
+    {
+      "src": "../../../assets/banner-image.png",
+      "alt": "check score",
+      "effects": ["fadeInLeft"]
+    }
+  ],
+  "buttons": [
+    {
+      "text": "Find Out Your Scores Now",
+      "type": "PAGE",
+      "link": "/signup",
+      "target": "_blank",
+      "variant": "secondary"
+    }
+  ]
+}

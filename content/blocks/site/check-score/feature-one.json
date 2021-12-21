@@ -1,0 +1,57 @@
+{
+  "text": [
+    {
+      "text": "End The Stress And Take Full Control Of Your Credit NOW",
+      "color": "black",
+      "variant": "h3"
+    },
+    {
+      "text": "Checking Your Own Credit Won’t Hurt Your Scores",
+      "variant": "medium"
+    }
+  ],
+  "images": [
+    {
+      "src": "../../../assets/mobile-image.png",
+      "alt": "credit score"
+    }
+  ],
+  "collection": [
+    {
+      "icon": {
+        "src": "../../../assets/flexiblocks/icons/bx-check-circle.svg",
+        "color": "beta"
+      },
+      "text": [
+        {
+          "text": "24/7 Score Monitoring From All 3 Credit Bureaus",
+          "variant": "h5"
+        }
+      ]
+    },
+    {
+      "icon": {
+        "src": "../../../assets/flexiblocks/icons/bx-check-circle.svg",
+        "color": "beta"
+      },
+      "text": [
+        {
+          "text": "UNLIMITED Access To ALL Your Credit Reports",
+          "variant": "h5"
+        }
+      ]
+    },
+    {
+      "icon": {
+        "src": "../../../assets/flexiblocks/icons/bx-check-circle.svg",
+        "color": "beta"
+      },
+      "text": [
+        {
+          "text": "INSTANT Alerts Whenever Your Score Changes",
+          "variant": "h5"
+        }
+      ]
+    }
+  ]
+}
